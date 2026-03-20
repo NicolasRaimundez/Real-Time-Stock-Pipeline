@@ -14,12 +14,12 @@
 This project demonstrates an **end-to-end real-time data pipeline** using the **Modern Data Stack**.  
 This project is an end-to-end Real-Time Data Pipeline that streams live market data from a website (API) via Kafka. The data is stored in S3, processed and transformed using dbt within Snowflake, and finally presented as a live Power BI visualization.
 
-![Architecture (1)](https://github.com/user-attachments/assets/6b49eb4d-4bf7-473d-9281-50c20b241760)
-
 ---
 
 ## 🧑‍💻 Purpose of the research
 The goal is to build a tech-savvy, automated pipeline using a Modern Data Stack. It demonstrates how to orchestrate complex data flows—from raw ingestion to business-ready insights—using industry-standard tools like Docker and Airflow.
+
+![Architecture (1)](https://github.com/user-attachments/assets/6b49eb4d-4bf7-473d-9281-50c20b241760)
 
 ---
 
